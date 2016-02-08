@@ -1,0 +1,1 @@
+<h2>New article created succesfully!</h2>
